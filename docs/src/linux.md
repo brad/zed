@@ -47,8 +47,8 @@ If you'd prefer, you can install Zed by downloading our pre-built .tar.gz. This 
 Download the `.tar.gz` file:
 
 * [zed-linux-x86_64.tar.gz](https://zed.dev/api/releases/stable/latest/zed-linux-x86_64.tar.gz) ([preview](https://zed.dev/api/releases/preview/latest/zed-linux-x86_64.tar.gz))
-* [zed-linux-aarch64.tar.gz](https://zed.dev/api/releases/stable/latest/zed-linux-x86_64.tar.gz)
- ([preview](https://zed.dev/api/releases/preview/latest/zed-linux-x86_64.tar.gz))
+* [zed-linux-aarch64.tar.gz](https://zed.dev/api/releases/stable/latest/zed-linux-aarch64.tar.gz)
+ ([preview](https://zed.dev/api/releases/preview/latest/zed-linux-aarch64.tar.gz))
 
 Then ensure that the `zed` binary in the tarball is on your path. The easiest way is to unpack the tarball and create a symlink:
 
